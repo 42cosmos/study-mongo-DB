@@ -17,5 +17,8 @@ Non Relational Operation Database SQL
 
 ### Sources
 
+- [MongoDB 프로그래밍 - Tacademy on Youtube](https://www.youtube.com/watch?v=2boOF8zndns&list=PL9mhQYIlKEheyXIEL8RQts4zV_uMwdWFj)
+
 - [NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!](https://www.inflearn.com/course/nosql-파이썬-몽고DB-잔재미코딩)
 - [MongoDB - Javascript로 배우는 NoSQL DB](https://www.inflearn.com/course/mongodb_grammar_basics#)
+
